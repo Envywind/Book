@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebRoot/base/Base.jsp=UTF-8
+encoding//WebRoot/index/header.jsp=UTF-8
+encoding//WebRoot/index/product.jsp=UTF-8
+encoding//src/book/core/commonUtils/CommonUtils.java=UTF-8
+encoding//src/book/core/dbutils/DBUtils.java=UTF-8
+encoding//src/book/core/utils/StringUtil.java=UTF-8
+encoding//src/book/service/upload/impl/UploadHelper.java=UTF-8
+encoding/<project>=UTF-8
